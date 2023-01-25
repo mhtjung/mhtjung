@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋 I'm Mike!
+
+I'm a full-stack software engineer based in San Diego, California. Here's a little bit about me: 
+
+- ⚕️ Created [Triage](https://github.com/team-triage/triage), a service for Apache Kafka consumer applications that solves head-of-line-blocking!
+- 🍴  Restaurant industry survivor
+- ⛳ I enjoy golf, 2000's hip hop, oxford commas, and TTRPGs.
+
 
 <!--
 **mhtjung/mhtjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
